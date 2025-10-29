@@ -1,7 +1,7 @@
-let year=2002;
-if(year%4==0){
-    console.log("leep year")
+let n=2002;
+if(n%2==0){
+    console.log("even")
 }
 else{
-    console.log("not leep year")
+    console.log("odd")
 }
